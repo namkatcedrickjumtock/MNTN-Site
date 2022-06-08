@@ -1,0 +1,47 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Didact Gothic', sans-serif;
+    background-image: url('../Assets/bg.png');
+    background-color: #98a6a8b6;
+    position: relative;
+}
+
+#logo {
+    width: 10%;
+}
+
+nav ul li a {
+    color: #ffff;
+    font-family: sans-serif;
+    /* font-weight: 600; */
+    font-size: 1.2em;
+}
+
+#icon {
+    font-size: 2em;
+}
+
+#slider-section {
+    background-color: #98a6a8e7;
+    margin-top: 10em;
+}
+
+#slider-section p {
+    color: #ffff;
+}
+
+#sub-img {
+    width: 80%;
+    height: 70vh;
+}
+
+
+#footer {
+    margin-top: -1em;
+    background-color: #06191b88;
+}
+
+footer ul li a {
+    color: #ffffff;
+}
