@@ -17,6 +17,9 @@ nav ul li a {
     /* font-weight: 600; */
     font-size: 1.2em;
 }
+#sub-ctn{
+    background-image: linear-gradient(to top, 50% #0000,20% #000);
+}
 
 #icon {
     font-size: 2em;
@@ -34,6 +37,7 @@ nav ul li a {
 #sub-img {
     width: 80%;
     height: 70vh;
+    margin-top: -4em;
 }
 
 
