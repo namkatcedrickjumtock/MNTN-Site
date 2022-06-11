@@ -34,10 +34,13 @@ nav ul li a {
     color: #ffff;
 }
 
+#img{
+    /* margin-top: -4em; */
+
+}
 #sub-img {
     width: 80%;
     height: 70vh;
-    margin-top: -4em;
 }
 
 
